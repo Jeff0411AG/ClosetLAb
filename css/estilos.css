@@ -201,11 +201,21 @@
   --color-cta: #fff;
   --color-items: #fff;
  }
+
+ .subtitle{
+  font-size: 2.5rem;
+  color: var(--color-price);
+
+ }
+
  .price__name{
   color: var(--color-plan);
   margin-bottom: 15px;
   font-weight: 300;
+  font-size: 2.5rem;
  }
+
+
  .price__price{
   font-size: 2.5rem;
   color: var(--color-price);
