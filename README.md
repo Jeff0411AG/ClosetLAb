@@ -1,0 +1,3 @@
+# ClosetLAb
+Nuestra startup llamada “Tec-Dress”  tiene como origen en Perú y al ser una empresa joven puede tener un gran potencial de crecimiento y reconocimiento. Asimismo, es una empresa innovadora, ya que ofrece un enfoque nuevo complementando servicios comunes en la industria de ventas online, prendas de vestir y la experiencia de nuestros clientes. Además, nos destacamos de la competencia, porque hacemos uso de diferentes recursos tecnológicos y recursos de negocios sostenibles, como por ejemplo, realidad virtual, tipografía, diseño gráfico, variables competitivas y océano azul, y así lograr la mejor experiencia en todos nuestros usuarios.
+
