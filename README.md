@@ -54,6 +54,7 @@ Nuestra aplicación tendrá una interfaz amigable que permita la facilidad de us
 Segmentos objetivo:
 
 -Consumidores: Personas entre 18 a 40 años que prefieran comprar o buscar prendas de vestir de manera virtual antes que una tienda física.	
+
 -Empresa: Tiendas digitalizadas con marca propia en prendas de vestir que se dedique a su fabricación y venta de esta, y que prefieran vender de manera online mediante sitios web o aplicativos móviles.
 
 
